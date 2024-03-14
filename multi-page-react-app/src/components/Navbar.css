@@ -1,0 +1,17 @@
+ol{
+    list-style-type: none;
+    background-color: #282828;
+    color: #fff;
+    overflow: hidden;
+    margin: 0;
+    border: 0;
+}
+li{
+    float: right;
+    display: inline-block;
+    padding: 25px;
+}
+.navigation-menu{
+    
+    width: 100%;
+}
